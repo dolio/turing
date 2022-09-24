@@ -1,0 +1,4 @@
+name: turing
+depend: standard-library
+include: src
+flags: --safe --postfix-projections --guardedness --lossy-unification

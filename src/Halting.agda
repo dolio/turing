@@ -9,6 +9,7 @@ open import Relation.Nullary
 open import Relation.Binary.PropositionalEquality hiding ([_])
 
 open import Turing.Machine
+open St
 
 module Halting
   -- Suppose we have a scheme for representing Turing machines as
